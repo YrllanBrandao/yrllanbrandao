@@ -13,18 +13,6 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://nextjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
-   </a>
-   <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="https://www.electronjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://www.slack.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
-   </a>
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
@@ -54,10 +42,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/yrllanbrandao">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=YrllanBrandao&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
 </a>
@@ -66,7 +54,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
+  <a href="https://github.com/yrllanbrandao/seu-repositorio">
     <img
       align="center"
       height="120em"
