@@ -51,17 +51,7 @@
 </a>
 </p>
 
-<h3 align="center">Trabalhando em:</h3>
 
-<p align="center">
-  <a href="https://github.com/yrllanbrandao/">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YrllaBrandao&repo=buscacep&theme=tokyonight">
-    </img>
-  </a>
-</p>
 
 <h3 align="center">Sobre mim:</h3>
 
