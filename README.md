@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/YrllanBrandao)
+[![banner](./profile.png)](https://github.com/YrllanBrandao)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -58,7 +58,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YrllaBrandao&repo=Yrllanbrandao&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=YrllaBrandao&repo=buscacep&theme=tokyonight">
     </img>
   </a>
 </p>
