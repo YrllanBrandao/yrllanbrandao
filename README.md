@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/yrllanbrandao)
+[![banner](./banner.png)](https://github.com/YrllanBrandao)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -54,7 +54,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/yrllanbrandao/seu-repositorio">
+  <a href="https://github.com/yrllanbrandao/yrllanbrandao">
     <img
       align="center"
       height="120em"
