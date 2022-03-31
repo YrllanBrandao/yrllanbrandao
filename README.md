@@ -68,7 +68,7 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-
+curriculum -> https://drive.google.com/file/d/1aBBFuL4puiyGocQtSqqur05eWj51434n/view?usp=sharing
 </p>
 <h5 align="center">@yrllanbrandao</h5>
 </details>
