@@ -19,9 +19,9 @@
 </p>
 
 <h4 align="center">
-<details>
-<summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Yrllan Brandão</h1></img>
+
+
+<h1 align="center">Yrllan Brandão - Desenvolvedor web Fullstack</h1>
 
 <p align="center">
   <a href="https://github.com/yrllanbrandao">
