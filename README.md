@@ -21,7 +21,7 @@
 <h4 align="center">
 
 
-<h1 align="center">Yrllan Brandão - Desenvolvedor web back-end</h1>
+<h1 align="center">Yrllan Brandão - Desenvolvedor back-end</h1>
 
 <p align="center">
   <a href="https://github.com/yrllanbrandao">
