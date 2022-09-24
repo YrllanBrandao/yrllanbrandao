@@ -37,8 +37,6 @@
   </a>
 </div>
 
-<div align="center" style='opacity:0'>
-  <img src="https://profile-counter.glitch.me/yrllanbrandao/count.svg?"  />
-</div>
+
 
 ###
