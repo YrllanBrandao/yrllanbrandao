@@ -35,6 +35,7 @@
   <a href="https://codepen.io/yrllan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
+  ![](https://komarev.com/ghpvc/?username=yrllanbrandao)
 </div>
 
 
