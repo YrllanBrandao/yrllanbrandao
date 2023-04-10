@@ -1,4 +1,4 @@
-<p align="center">Olá, Me chamo Yrllan Brandão, sou desenvolvedor back-end node.js e estou no último semestre do curso superior de redes de computadores.<br>Possuo conhecimento das tecnologias abaixo:</p>
+<p align="center">Olá, Me chamo Yrllan Brandão, Sou tecnológo em redes de computadores e desenvolvedor back-end node.js.<br>Possuo conhecimento das tecnologias abaixo e estou em busca de novas oportunidades:</p>
 
 ###
 
