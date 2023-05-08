@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 💫 About me:
 Olá, Me chamo Yrllan Brandão, Sou tecnológo em redes de computadores e desenvolvedor back-end node.js.<br>Possuo conhecimento das tecnologias abaixo e estou em busca de novas oportunidades
 
 
