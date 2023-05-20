@@ -66,7 +66,6 @@ I am a back-end developer, I already worked as full-stack and front-end develope
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
@@ -88,10 +87,13 @@ I am a back-end developer, I already worked as full-stack and front-end develope
 </table>
 
 
+---
+## Vacuum - community 4devs
+  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
+ [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
+ [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
 
-<br/>  
-
-  
 
 <br/>  
 
