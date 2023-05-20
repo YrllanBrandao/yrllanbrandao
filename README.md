@@ -103,5 +103,4 @@ I am a back-end developer, I already worked as full-stack and front-end develope
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
