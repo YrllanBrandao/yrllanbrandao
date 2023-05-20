@@ -30,10 +30,10 @@ I am a back-end developer, I already worked as full-stack and front-end develope
 - i'm looking for a job  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Aws
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Node/JavaCript stack and related technologies  
   
 
 - ⚡ Fun fact: I made many games  
