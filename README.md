@@ -54,13 +54,13 @@
 <details>
 <p align="center">
   <a href="https://github.com/yrllanbrandao">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrllanbrandao&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrllanbrandao&theme=dark" />
   </a>
   <a href="https://github.com/yrllanbrandaoa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrllanbrandao&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrllanbrandao&hide_border=true&card_width=338&theme=dark" />
   </a>
   <a href="https://github.com/yrllanbrandao">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yrllanbrandao&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yrllanbrandao&theme=dark" />
   </a>
   <a href="https://github.com/yrllanbrandao">
    
