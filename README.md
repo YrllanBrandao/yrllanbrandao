@@ -6,12 +6,7 @@
         I'm Yrllan Brandão.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/yrllanbrandao">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-  <a href="https://www.codepen.io/yrllan">
-        <img src="https://img.shields.io/badge/codepen-black?style=flat-square&logo=codepen" alt="Codepen">
-    </a>
+  
 </p>
 
 ### Contact me
