@@ -14,6 +14,16 @@
     </a>
 </p>
 
+### Contact me
+<p>
+     <a  href="https://wa.me/5596991967748?text=olá,%20vim%20pelo%20github%20e%20gostaria%20de%20saber%20se%20está%20disponível%20para%20conversar.">
+        <img src="https://img.shields.io/badge/whatsapp-black?style=flat-square&logo=whatsapp" alt="Whatsapp">
+    </a>
+    <a href="https://www.linkedin.com/in/yrllanbrandao/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    </p>
+
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/yrllanbrandao)
 [![Typecript](https://img.shields.io/badge/typesript-black?style=for-the-badge&logo=typescript)](https://github.com/yrllanbrandao)
