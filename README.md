@@ -41,8 +41,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/yrllanbrandao)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/yrllanbrandao)
 
-  
-
+[View in english](https://github.com/YrllanBrandao/yrllanbrandao-en)
 ### Vacuum - comunidade para desenvolvedores
 
   <a href="https://discord.gg/vacuum">
