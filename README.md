@@ -1,15 +1,15 @@
-<h1 align="center">Hi, guys!! 👋</h1>
+<h1 align="center">Olá!! 👋</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Bem vindo ao meu perfil!</b><br><br>
     <i>
-        I'm Yrllan Brandão.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+       Eu sou Yrllan Brandão.<br>
+        Estou em busca de novas oportunidades e em busca de projeto interessantes e inovadores para colaborar.<br>
     </i><br>
   
 </p>
 
-### Contact me
+### Entre em contato comigo
 <p>
      <a  href="https://wa.me/5596991967748?text=olá,%20vim%20pelo%20github%20e%20gostaria%20de%20saber%20se%20está%20disponível%20para%20conversar.">
         <img src="https://img.shields.io/badge/whatsapp-black?style=flat-square&logo=whatsapp" alt="Whatsapp">
@@ -19,7 +19,7 @@
     </a>
     </p>
 
-### Languages
+### Linguagens
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/yrllanbrandao)
 [![Typecript](https://img.shields.io/badge/typesript-black?style=for-the-badge&logo=typescript)](https://github.com/yrllanbrandao)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/yrllanbrandao)
@@ -27,7 +27,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/yrllanbrandao)
 
 
-### Technologies & Frameworks
+### Tecnologias & Frameworks
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/yrllanbrandao)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/yrllanbrandao)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/yrllanbrandao)
@@ -43,7 +43,7 @@
 
   
 
-### Vacuum - community 4devs
+### Vacuum - comunidade para desenvolvedores
 
   <a href="https://discord.gg/vacuum">
         <img src="https://img.shields.io/badge/discord-black?style=flat-square&logo=discord" alt="Discord">
