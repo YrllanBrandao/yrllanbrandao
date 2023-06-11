@@ -60,9 +60,7 @@
   <a href="https://github.com/yrllanbrandao">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrllanbrandao&theme=dracula" />
   </a>
-  <a href="https://github.com/yrllanbrandaoa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrllanbrandao&hide_border=true&card_width=338&theme=dracula" />
-  </a>
+
   <a href="https://github.com/yrllanbrandao">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yrllanbrandao&theme=dracula" />
   </a>
