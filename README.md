@@ -22,6 +22,7 @@
 ### Linguagens
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/yrllanbrandao)
 [![Typecript](https://img.shields.io/badge/typesript-black?style=for-the-badge&logo=typescript)](https://github.com/yrllanbrandao)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/yrllanbrandao)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/yrllanbrandao)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/yrllanbrandao)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/yrllanbrandao)
