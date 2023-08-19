@@ -4,7 +4,7 @@
     <b>Bem vindo ao meu perfil!</b><br><br>
     <i>
        Eu sou Yrllan Brandão.<br>
-        Estou em busca de novas oportunidades e em busca de projeto interessantes e inovadores para colaborar.<br>
+        Estou em busca de novas oportunidades e em busca de projetos interessantes e inovadores para colaborar.<br>
     </i><br>
   
 </p>
