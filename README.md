@@ -43,20 +43,8 @@
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/yrllanbrandao)
 
 [View in english](https://github.com/YrllanBrandao/yrllanbrandao-en)
-### Vacuum - comunidade para desenvolvedores
-
-  <a href="https://discord.gg/vacuum">
-        <img src="https://img.shields.io/badge/discord-black?style=flat-square&logo=discord" alt="Discord">
-  </a>
- <a href="https://github.com/VacuumORG">
-        <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github" alt="Github">
-  </a>
-   <a href="https://www.linkedin.com/company/vacuumm/mycompany/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
 
 
-<details>
 <p align="center">
   <a href="https://github.com/yrllanbrandao">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrllanbrandao&theme=dracula" />
@@ -69,7 +57,7 @@
        <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrllanbrandao&theme=dracula' />
     </a>
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/yrllanbrandao">
